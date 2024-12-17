@@ -1,0 +1,8 @@
+root = true
+
+[*]
+charset = utf-8
+indent_style = space               #Define o uso de espaço para indentação
+indent_size = 2                    #Define 2 como tamanho padrão da indentação
+insert_final_newline = true        #Insere uma nova linha no final do arquivo
+trim_trailing_whitespace = true    #Remove espaços em branco no final
